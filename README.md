@@ -123,19 +123,6 @@ Sebelum menjalankan aplikasi, pastikan lingkungan server memenuhi kriteria berik
 
 ---
 
-## 📂 Struktur Folder Proyek
-
-```text
-E-cuti-staff-BBPPTP-Medan/
-├── application/ / app/        # Logika aplikasi (Controller, Model, View)
-├── assets/                    # Berkas statis (CSS, JS, Gambar, Template AdminLTE)
-├── database/                  # File skrip dump database (.sql)
-├── uploads/                   # Folder penyimpanan berkas syarat & surat cuti (PDF)
-├── vendor/                    # Dependensi library (Dompdf, PhpSpreadsheet, dll)
-├── .gitignore                 # File yang diabaikan oleh Git
-└── README.md                  # Dokumentasi proyek
-```
-
 ---
 
 ## 📑 Format Output & Laporan
